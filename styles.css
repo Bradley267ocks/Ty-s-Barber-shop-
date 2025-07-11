@@ -139,7 +139,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 .logo {
@@ -214,7 +214,7 @@ nav ul li a.active:after {
 
 /* Hero Section with GIF Background */
 .hero {
-    height: 120vh;
+    height: 300vh;
     background: 
         linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
         url('Untitled design.gif') 
