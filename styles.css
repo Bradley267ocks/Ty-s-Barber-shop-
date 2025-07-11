@@ -214,7 +214,7 @@ nav ul li a.active:after {
 
 /* Hero Section with GIF Background */
 .hero {
-    height: 300vh;
+    height: 190vh;
     background: 
         linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
         url('3_69e2fd98-aff2-4e2c-95f4-b6c557400d24.jpg') 
